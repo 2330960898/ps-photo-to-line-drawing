@@ -24,7 +24,7 @@
 | ![人物原图](https://img.sipingseo.com/file/photo-to-line-drawing/bWZeqiGT.webp) | ![人物线稿结果](https://img.sipingseo.com/file/photo-to-line-drawing/qMJDG4qF.webp) |
 
 ### 2. 建筑风景转钢笔线稿
-强调建筑结构与透视线条，黑白对比强烈，为设计方案提供清晰的视觉参考。
+强调建筑结构与透视线条，黑白对比强烈，为设计方案提供清晰的视觉参考
 | 原始照片 | AI 转换线稿 |
 | :--- | :--- |
 | ![建筑原图](https://img.sipingseo.com/file/photo-to-line-drawing/yuOzVLxv.webp) | ![建筑线稿结果](https://img.sipingseo.com/file/photo-to-line-drawing/t3X63gN9.webp) |
