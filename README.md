@@ -5,7 +5,7 @@
 [![Tool-Type](https://img.shields.io/badge/Category-AI%20Image%20Editor-blue)](#)
 [![License](https://img.shields.io/badge/License-Free-green)](#)
 
-[SPAI 线稿助理 - PS 图片转线稿](https://www.sipingseo.com/zh/line-art-edit/photo-to-line-drawing) 是一款基于深度学习算法的免费在线 AI 工具。它能够智能识别照片边缘与语义结构，将其精准转换为铅笔素描、钢笔线稿或漫画轮廓。无需复杂的 Photoshop 操作，10 秒内即可出图，是设计师、绘画爱好者及插画师获取底稿的最佳选择。
+[SPAI 线稿助理 - PS 图片转线稿](https://www.sipingseo.com/zh/line-art-edit/photo-to-line-drawing) 是一款基于深度学习算法的免费在线 AI 工具。它能够智能识别照片边缘与语义结构，将其精准转换为铅笔素描、钢笔线稿或漫画轮廓。无需复杂的 Photoshop 操作，10 秒内即可出图，是设计师、绘画爱好者及插画师获取底稿的最佳选择
 
 ## 🌟 核心优势
 
