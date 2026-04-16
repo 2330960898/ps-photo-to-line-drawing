@@ -41,7 +41,7 @@
 - **Nano Banana Pro**：最火模型，擅长精细的人物线稿提取
 - **Flux-Kontext**：经典模型，专攻复杂建筑场景与机械透视
 - **Seedream 5**：针对艺术插画细节进行优化，线条层次分明
-- **Z-Image-Turbo / GPT-Image**：针对商业设计与创意转换进行深度优化。
+- **Z-Image-Turbo / GPT-Image**：针对商业设计与创意转换进行深度优化
 
 ## 📖 使用指南
 
