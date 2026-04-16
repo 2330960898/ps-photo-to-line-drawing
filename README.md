@@ -46,7 +46,7 @@
 ## 📖 使用指南
 
 1.  **上传图片**：访问 [PS 图片转线稿页面](https://www.sipingseo.com/zh/line-art-edit/photo-to-line-drawing)，上传您的照片（支持 JPG/PNG/WEBP）
-2.  **选择风格**：输入描述语或直接选择模式（如 Pencil、Ink 或 Comic）。
+2.  **选择风格**：输入描述语或直接选择模式（如 Pencil、Ink 或 Comic）
 3.  **模型配置**：根据图像类型选择最匹配的模型。
 4.  **生成并下载**：点击“转线稿”，满意后即可免费下载高清矢量风格线稿
 
