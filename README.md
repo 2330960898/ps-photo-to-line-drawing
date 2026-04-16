@@ -18,7 +18,7 @@
 ## 📸 转换效果展示 (Before & After)
 
 ### 1. 人物肖像转铅笔素描
-精准提取五官细节与发丝轮廓，线条流畅自然，非常适合作为绘画临摹底稿。
+精准提取五官细节与发丝轮廓，线条流畅自然，非常适合作为绘画临摹底稿
 | 原始照片 | AI 转换线稿 |
 | :--- | :--- |
 | ![人物原图](https://img.sipingseo.com/file/photo-to-line-drawing/bWZeqiGT.webp) | ![人物线稿结果](https://img.sipingseo.com/file/photo-to-line-drawing/qMJDG4qF.webp) |
