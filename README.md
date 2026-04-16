@@ -30,7 +30,7 @@
 | ![建筑原图](https://img.sipingseo.com/file/photo-to-line-drawing/yuOzVLxv.webp) | ![建筑线稿结果](https://img.sipingseo.com/file/photo-to-line-drawing/t3X63gN9.webp) |
 
 ### 3. 萌宠转日式漫画风
-自动适配轮廓夸张化，突出眼神与毛发纹理，轻松生成可用于插画创作的漫画底稿。
+自动适配轮廓夸张化，突出眼神与毛发纹理，轻松生成可用于插画创作的漫画底稿
 | 原始素材 | AI 漫画线稿 |
 | :--- | :--- |
 | ![动物原图](https://img.sipingseo.com/file/photo-to-line-drawing/vcBGFwOs.webp) | ![漫画线稿结果](https://img.sipingseo.com/file/photo-to-line-drawing/YwcXQPq5.webp) |
